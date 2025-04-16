@@ -1,0 +1,15 @@
+[submodule "sentiment_assessment_model"]
+	path = sentiment_assessment_model
+	url = git@github.com:Ra9jkDM/sentiment_assessment_model.git
+[submodule "sentiment_assessment_tg_bot_scraper"]
+	path = sentiment_assessment_tg_bot_scraper
+	url = git@github.com:Ra9jkDM/sentiment_assessment_tg_bot_scraper
+[submodule "sentiment_assessment_backend"]
+	path = sentiment_assessment_backend
+	url = git@github.com:Ra9jkDM/sentiment_assessment_backend
+[submodule "sentiment_assessment_frontend"]
+	path = sentiment_assessment_frontend
+	url = git@github.com:Ra9jkDM/sentiment_assessment_frontend
+[submodule "sentiment_assessment_web_model"]
+	path = sentiment_assessment_web_model
+	url = git@github.com:Ra9jkDM/sentiment_assessment_web_model
